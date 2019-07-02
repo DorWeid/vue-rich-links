@@ -1,4 +1,4 @@
-# NOTE:
+# NOTE
 
 left the README as it was, don't really need anything else
 
